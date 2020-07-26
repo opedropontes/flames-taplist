@@ -1,0 +1,191 @@
+@import url("https://use.typekit.net/aii6lhh.css");
+
+/*
+BalboaPlus Fill
+font-family: balboa-plus-fill,sans-serif;
+font-weight: 400;
+font-style: normal;
+
+BalboaPlus Gradient
+font-family: balboa-plus-gradient,sans-serif;
+font-weight: 400;
+font-style: normal;
+
+BalboaPlus Inline
+font-family: balboa-plus-inline,sans-serif;
+font-weight: 400;
+font-style: normal;
+
+BalboaPlus Primary
+font-family: balboa-plus-primary,sans-serif;
+font-weight: 400;
+font-style: normal;
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  text-shadow: 2px 2px #000;
+}
+body {
+  background-color: #444;
+  color: #fff;
+}
+/*
+#taplist {
+  border: 5px solid #c22e21;
+}*/
+#root,
+.tv {
+  height: 100vh;
+}
+
+#header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: balboa-plus-primary, sans-serif;
+  height: calc(100vh / 9);
+  font-size: calc((100vh / 9) * 0.5);
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+#h-tap {
+  display: flex;
+  justify-content: center;
+  width: 6.25vw;
+}
+#h-img {
+  width: 6.25vw;
+}
+#h-beer {
+  display: flex;
+  justify-content: center;
+  width: 25vw;
+}
+#h-ibu {
+  display: flex;
+  justify-content: center;
+  width: 12.5vw;
+}
+#h-abv {
+  display: flex;
+  justify-content: center;
+  width: 12.5vw;
+}
+#h-halfpint {
+  display: flex;
+  justify-content: center;
+  width: 12.5vw;
+}
+#h-pint {
+  display: flex;
+  justify-content: center;
+  width: 12.5vw;
+}
+#h-litro {
+  display: flex;
+  justify-content: center;
+  width: 12.5vw;
+}
+#content {
+  font-family: balboa-plus-fill, sans-serif;
+  font-size: calc((100vh / 6.75) * 0.5);
+}
+.tap {
+  height: calc(100vh / 6.75);
+  display: flex;
+  align-items: center;
+  font-size: 1em;
+}
+.tap .c-tap {
+  font-family: balboa-plus-primary, sans-serif;
+  font-size: 1.5em;
+  width: calc((100vw / 8) / 2);
+  display: flex;
+  justify-content: center;
+}
+.tap .c-img {
+  display: flex;
+  justify-content: center;
+  width: calc((100vw / 8) / 2);
+}
+.tap .c-img img {
+  width: calc(((100vw / 8) / 2) * 0.8);
+  max-height: calc((95vh / 9) * 0.8);
+}
+.tap .c-beer {
+  width: calc((100vw / 8) * 2);
+  display: flex;
+  align-items: center;
+}
+.tap .c-beer .beer-name {
+  width: calc(((100vw / 8) * 2) / 2);
+  font-size: calc((100vh / 9) * 0.25);
+}
+.tap .c-beer .beer-info {
+  font-size: calc((100vh / 9) * 0.2);
+  width: calc(((100vw / 8) * 2) / 2);
+}
+
+.tap .c-ibu {
+  display: flex;
+  justify-content: center;
+  width: 12.5vw;
+}
+.tap .c-ibu .ibu-scale {
+  display: flex;
+}
+
+.tap .c-ibu svg {
+  height: calc((100vh / 7) * 0.4);
+  margin-right: 5px;
+  fill: #fff;
+}
+.tap .c-ibu .fill svg {
+  fill: red;
+}
+.tap .c-abv {
+  display: flex;
+  justify-content: center;
+  width: 12.5vw;
+}
+.tap .price {
+  font-size: 1em;
+}
+.tap .c-halfpint {
+  display: flex;
+  justify-content: center;
+  width: 12.5vw;
+}
+.tap .c-pint {
+  display: flex;
+  justify-content: center;
+  width: 12.5vw;
+}
+.tap .c-litro {
+  display: flex;
+  justify-content: center;
+  width: 12.5vw;
+}
+.tap.tap-bg1 {
+  background-color: rgba(194, 46, 33, 0.5);
+}
+.tap.tap-bg2 {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+video {
+  position: fixed;
+  bottom: 0;
+  z-index: -99;
+  width: 100vw;
+  opacity: 1;
+}
+
+#bg img{
+  position: fixed;
+  top: 0;
+  z-index: -99;
+  width: 100vw;
+}
