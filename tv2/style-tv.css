@@ -146,7 +146,7 @@ body,
 }
 
 .tap .c-ibu svg {
-  height: calc((95vh / 5) * 0.4);
+  height: calc((95vh / 6) * 0.4);
   margin-right: 5px;
   fill: #fff;
 }
