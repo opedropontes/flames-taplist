@@ -132,7 +132,7 @@ body,
   font-size: calc((100vh / 5) * 0.25);
 }
 .tap .c-beer .beer-info {
-  font-size: calc((100vh / 5) * 0.2);
+  font-size: calc((100vh / 6) * 0.2);
   width: calc(((100vw / 8) * 2) / 2);
 }
 
