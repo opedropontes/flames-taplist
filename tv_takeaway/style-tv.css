@@ -119,8 +119,7 @@ body,
   width: calc((100vw / 8) / 2);
 }
 .tap .c-img img {
-  width: calc(((100vw / 8) / 2) * 0.8);
-  max-height: calc((95vh / 5) * 0.8);
+  max-height: calc((95vh / 8) * 0.8);
 }
 .tap .c-beer {
   width: calc((100vw / 8) * 2);
