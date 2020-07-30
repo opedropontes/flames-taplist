@@ -53,8 +53,8 @@ body,
   align-items: center;
   justify-content: center;
   font-family: balboa-plus-primary, sans-serif;
-  height: calc(100vh / 8);
-  font-size: calc((100vh / 8) * 0.5);
+  height: calc(100vh / 9);
+  font-size: calc((100vh / 9) * 0.5);
   background-color: rgba(0, 0, 0, 0.8);
 }
 
@@ -98,10 +98,10 @@ body,
 }
 #content {
   font-family: balboa-plus-fill, sans-serif;
-  font-size: calc((100vh / 8) * 0.5);
+  font-size: calc((100vh / 9) * 0.5);
 }
 .tap {
-  height: calc(100vh / 8);
+  height: calc(100vh / 9);
   display: flex;
   align-items: center;
   font-size: 1em;
