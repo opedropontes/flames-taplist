@@ -1,0 +1,124 @@
+{
+  "beers": [
+    {
+      "tap": "01",
+      "image": "/images/beers/bionda.jpeg",
+      "beer": "Bionda",
+      "brewery": "Nói",
+      "style": "Pilsen",
+      "location": "Niterói - RJ",
+      "abv": 4.0,
+      "ibu_scale": 1,
+      "prices": {
+        "half_pint": 8,
+        "pint": 13,
+        "liter": 26
+      }
+    },
+    {
+      "tap": "02",
+      "image": "/images/beers/doktor_brau_logo.jpeg",
+      "beer": "Weiss",
+      "brewery": "Doktor Braü",
+      "style": "Weiss",
+      "location": "Congonhal - MG",
+      "abv": 5.0,
+      "ibu_scale": 1,
+      "prices": {
+        "half_pint": 7,
+        "pint": 12,
+        "liter": 24
+      }
+    },
+    {
+      "tap": "03",
+      "image": "/images/beers/fullers_london_pride.jpeg",
+      "beer": "London Pride",
+      "brewery": "Fuller's",
+      "style": "English Bitter",
+      "location": "Londres",
+      "abv": 4.7,
+      "ibu_scale": 2,
+      "prices": {
+        "half_pint": 17,
+        "pint": 28,
+        "liter": 57
+      }
+    },
+    {
+      "tap": "04",
+      "image": "/images/beers/dogma_apa.jpeg",
+      "beer": "American Pale Ale",
+      "brewery": "Dogma",
+      "style": "APA",
+      "location": "São Paulo - SP",
+      "abv": 5.8,
+      "ibu_scale": 3,
+      "prices": {
+        "half_pint": 14,
+        "pint": 22,
+        "liter": 44
+      }
+    },
+    {
+      "tap": "05",
+      "image": "/images/beers/camale_session_ipa.jpeg",
+      "beer": "American Session IPA",
+      "brewery": "Camale",
+      "style": "American Session IPA",
+      "location": "São Paulo - SP",
+      "abv": 5.0,
+      "ibu_scale": 2,
+      "prices": {
+        "half_pint": 15,
+        "pint": 25,
+        "liter": 50
+      }
+    },
+    {
+      "tap": "06",
+      "image": "/images/beers/overthree.jpeg",
+      "beer": "Overthree",
+      "brewery": "Molinarius",
+      "style": "New England IPA",
+      "location": "São Paulo - SP",
+      "abv": 6.3,
+      "ibu_scale": 3,
+      "prices": {
+        "half_pint": 19,
+        "pint": 29,
+        "liter": 58
+      }
+    },
+    {
+      "tap": "07",
+      "image": "/images/beers/wayne_invocacao.jpeg",
+      "beer": "Invocação",
+      "brewery": "Wayne190",
+      "style": "Double IPA",
+      "location": "São Paulo - SP",
+      "abv": 8.4,
+      "ibu_scale": 5,
+      "prices": {
+        "half_pint": 14,
+        "pint": 22,
+        "liter": 44
+      }
+    },
+    {
+      "tap": "08",
+      "image": "/images/beers/heartbeat.jpeg",
+      "beer": "Heartbeat",
+      "brewery": "Dádiva",
+      "style": "Double IPA",
+      "location": "Várzea Paulista - SP",
+      "abv": 8.1,
+      "ibu_scale": 3,
+      "prices": {
+        "half_pint": 19,
+        "pint": 31,
+        "liter": 62
+      }
+    }
+  ]
+}
