@@ -11,6 +11,7 @@ async function fetchData() {
 
         if (tap) {
           // Tap
+          document.querySelector("#tap" + beer.tap).classList.remove("hide");
           tap.querySelector(".c-tap").innerHTML = beer.tap;
           // Imagem
           tap.querySelector(".c-img img").setAttribute("src", beer.image);
@@ -35,7 +36,7 @@ async function fetchData() {
           // IBU
           for (let i = 0; i < beer.ibu_scale; i++) {
             const icone = tap
-              .querySelector(".ibu-scale")
+              .querySelector(".c-ibu")
               .querySelectorAll("div")
               [i].classList.add("fill");
           }
