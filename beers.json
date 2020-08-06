@@ -17,17 +17,17 @@
     },
     {
       "tap": "02",
-      "image": "/images/beers/doktor_brau_logo.jpeg",
-      "beer": "Weiss",
-      "brewery": "Doktor Braü",
+      "image": "/images/beers/paulaner_weiss.jpeg",
+      "beer": "Paulaner Naturtrüb",
+      "brewery": "Paulaner",
       "style": "Weiss",
-      "location": "Congonhal - MG",
-      "abv": 5.0,
+      "location": "Alemanha",
+      "abv": 5.5,
       "ibu_scale": 1,
       "prices": {
-        "half_pint": 7,
-        "pint": 12,
-        "liter": 24
+        "half_pint": 14,
+        "pint": 24,
+        "liter": 48
       }
     },
     {
