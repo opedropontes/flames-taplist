@@ -62,17 +62,17 @@
     },
     {
       "tap": "05",
-      "image": "/images/beers/camale_session_ipa.jpeg",
-      "beer": "American Session IPA",
-      "brewery": "Camale",
-      "style": "American Session IPA",
-      "location": "São Paulo - SP",
-      "abv": 5.0,
-      "ibu_scale": 2,
+      "image": "/images/beers/hocuspocus_interstellar.jpeg",
+      "beer": "Interstellar",
+      "brewery": "Hocus Pocus",
+      "style": "American IPA",
+      "location": "Rio de Janeiro - RJ",
+      "abv": 7.0,
+      "ibu_scale": 3,
       "prices": {
-        "half_pint": 15,
-        "pint": 25,
-        "liter": 50
+        "half_pint": 16,
+        "pint": 26,
+        "liter": 46
       }
     },
     {
