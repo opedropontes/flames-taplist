@@ -92,17 +92,17 @@
     },
     {
       "tap": "07",
-      "image": "/images/beers/wayne_invocacao.jpeg",
-      "beer": "Invocação",
-      "brewery": "Wayne190",
-      "style": "Double IPA",
+      "image": "/images/beers/camale.jpeg",
+      "beer": "Hazy IPA",
+      "brewery": "Camale",
+      "style": "Hazy IPA",
       "location": "São Paulo - SP",
-      "abv": 8.4,
-      "ibu_scale": 5,
+      "abv": 6.5,
+      "ibu_scale": 3,
       "prices": {
-        "half_pint": 14,
-        "pint": 22,
-        "liter": 44
+        "half_pint": 20,
+        "pint": 33,
+        "liter": 63
       }
     },
     {
