@@ -107,17 +107,17 @@
     },
     {
       "tap": "08",
-      "image": "/images/beers/heartbeat.jpeg",
-      "beer": "Heartbeat",
-      "brewery": "Dádiva",
-      "style": "Double IPA",
-      "location": "Várzea Paulista - SP",
-      "abv": 8.1,
-      "ibu_scale": 3,
+      "image": "/images/beers/noiva2.jpeg",
+      "beer": "A Noiva - Vol. 2",
+      "brewery": "Mafiosa",
+      "style": "Sour Gose Maracujá",
+      "location": "Valinhos - SP",
+      "abv": 4.1,
+      "ibu_scale": 1,
       "prices": {
-        "half_pint": 19,
-        "pint": 31,
-        "liter": 62
+        "half_pint": 15,
+        "pint": 25,
+        "liter": 53
       }
     },
     {
