@@ -32,17 +32,17 @@
     },
     {
       "tap": "03",
-      "image": "/images/beers/fullers_london_pride.jpeg",
-      "beer": "London Pride",
-      "brewery": "Fuller's",
-      "style": "English Bitter",
-      "location": "Londres",
-      "abv": 4.7,
-      "ibu_scale": 2,
+      "image": "/images/beers/bragantina_wit.jpeg",
+      "beer": "Bragantina Witbier",
+      "brewery": "Bragantina",
+      "style": "Witbier",
+      "location": "Bragança Paulistar - SP",
+      "abv": 4.5,
+      "ibu_scale": 1,
       "prices": {
-        "half_pint": 17,
-        "pint": 28,
-        "liter": 57
+        "half_pint": 9,
+        "pint": 15,
+        "liter": 31
       }
     },
     {
@@ -118,6 +118,36 @@
         "half_pint": 19,
         "pint": 31,
         "liter": 62
+      }
+    }
+    {
+      "tap": "09",
+      "image": "/images/beers/dondrino.jpeg",
+      "beer": "Don Drino",
+      "brewery": "Mafiosa",
+      "style": "Double IPA",
+      "location": "Valinhos - SP",
+      "abv": 6.7,
+      "ibu_scale": 3,
+      "prices": {
+        "half_pint": 11,
+        "pint": 18,
+        "liter": 37
+      }
+    },
+    {
+      "tap": "10",
+      "image": "/images/beers/dama_stout.jpeg",
+      "beer": "Dama Stout",
+      "brewery": "Dama",
+      "style": "Stout",
+      "location": "Piracicaba - SP",
+      "abv": 6,
+      "ibu_scale": 2,
+      "prices": {
+        "half_pint": 11,
+        "pint": 18,
+        "liter": 37
       }
     }
   ]
