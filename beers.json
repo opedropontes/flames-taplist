@@ -2,17 +2,17 @@
   "beers": [
     {
       "tap": "01",
-      "image": "/images/beers/dadiva_premium_lager.jpeg",
-      "beer": "Premium Lager",
-      "brewery": "Dádiva",
-      "style": "Premium Lager",
-      "location": "Várzea Paulista - SP",
-      "abv": 5.1,
+      "image": "/images/beers/zev_pilsen.jpeg",
+      "beer": "Pilsen",
+      "brewery": "Zev",
+      "style": "Pilsen",
+      "location": "Zev - SP",
+      "abv": 4.5,
       "ibu_scale": 1,
       "prices": {
-        "half_pint": 9,
-        "pint": 15,
-        "liter": 30
+        "half_pint": 8,
+        "pint": 13,
+        "liter": 26
       }
     },
     {
