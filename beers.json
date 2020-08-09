@@ -32,17 +32,17 @@
     },
     {
       "tap": "03",
-      "image": "/images/beers/bragantina_wit.jpeg",
-      "beer": "Bragantina Witbier",
-      "brewery": "Bragantina",
-      "style": "Witbier",
-      "location": "Bragança Paulistar - SP",
-      "abv": 4.5,
+      "image": "/images/beers/orange_sunshine.jpeg",
+      "beer": "Orange Sunshine",
+      "brewery": "Hocus Pocus",
+      "style": "Blonde Ale Laranja",
+      "location": "Rio de Janeiro - RJ",
+      "abv": 5.0,
       "ibu_scale": 1,
       "prices": {
-        "half_pint": 9,
-        "pint": 15,
-        "liter": 31
+        "half_pint": 12,
+        "pint": 19,
+        "liter": 38
       }
     },
     {
