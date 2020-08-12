@@ -122,17 +122,17 @@
     },
     {
       "tap": "09",
-      "image": "/images/beers/dondrino.jpeg",
-      "beer": "Don Drino",
-      "brewery": "Mafiosa",
+      "image": "/images/beers/sir_ipa.jpeg",
+      "beer": "Sir IPA",
+      "brewery": "Wayne190",
       "style": "American IPA",
-      "location": "Valinhos - SP",
-      "abv": 6.7,
+      "location": "São Paulo - SP",
+      "abv": 6.3,
       "ibu_scale": 3,
       "prices": {
-        "half_pint": 18,
-        "pint": 29,
-        "liter": 48
+        "half_pint": 11,
+        "pint": 18,
+        "liter": 38
       }
     },
     {
