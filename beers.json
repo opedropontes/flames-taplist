@@ -17,17 +17,17 @@
     },
     {
       "tap": "02",
-      "image": "/images/beers/paulaner_weiss.jpeg",
-      "beer": "Paulaner Naturtrüb",
-      "brewery": "Paulaner",
+      "image": "/images/beers/wayne_weiss.jpeg",
+      "beer": "Weiss que é sua",
+      "brewery": "Wayne190",
       "style": "Weiss",
-      "location": "Alemanha",
-      "abv": 5.5,
+      "location": "São Paulo - SP",
+      "abv": 5.2,
       "ibu_scale": 1,
       "prices": {
-        "half_pint": 14,
-        "pint": 24,
-        "liter": 48
+        "half_pint": 9,
+        "pint": 15,
+        "liter": 32
       }
     },
     {
