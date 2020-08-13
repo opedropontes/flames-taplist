@@ -2,17 +2,17 @@
   "beers": [
     {
       "tap": "01",
-      "image": "/images/beers/zev_pilsen.jpeg",
-      "beer": "Pilsen",
-      "brewery": "Zev",
+      "image": "/images/beers/wayne190_pilsen.jpeg",
+      "beer": "Premium Pilsen",
+      "brewery": "Wayne190",
       "style": "Pilsen",
       "location": "São Paulo - SP",
-      "abv": 4.5,
+      "abv": 5.1,
       "ibu_scale": 1,
       "prices": {
         "half_pint": 8,
         "pint": 13,
-        "liter": 26
+        "liter": 27
       }
     },
     {
