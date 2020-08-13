@@ -10,9 +10,9 @@
       "abv": 5.1,
       "ibu_scale": 1,
       "prices": {
-        "half_pint": 8,
-        "pint": 13,
-        "liter": 27
+        "half_pint": 9,
+        "pint": 14,
+        "liter": 29
       }
     },
     {
@@ -25,9 +25,9 @@
       "abv": 5.2,
       "ibu_scale": 1,
       "prices": {
-        "half_pint": 9,
-        "pint": 15,
-        "liter": 32
+        "half_pint": 10,
+        "pint": 16,
+        "liter": 33
       }
     },
     {
@@ -130,9 +130,9 @@
       "abv": 6.3,
       "ibu_scale": 3,
       "prices": {
-        "half_pint": 11,
-        "pint": 18,
-        "liter": 38
+        "half_pint": 14,
+        "pint": 20,
+        "liter": 41
       }
     },
     {
