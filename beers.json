@@ -149,6 +149,36 @@
         "pint": 18,
         "liter": 37
       }
+    },
+    {
+      "tap": "11",
+      "image": "/images/beers/trilha_melonrise.jpeg",
+      "beer": "Melonrise",
+      "brewery": "Trilha",
+      "style": "American IPA",
+      "location": "São Paulo - SP",
+      "abv": 7,
+      "ibu_scale": 3,
+      "prices": {
+        "half_pint": 19,
+        "pint": 32,
+        "liter": 67
+      }
+    },
+    {
+      "tap": "12",
+      "image": "/images/beers/antuerpia_nikita_hazelnut.jpeg",
+      "beer": "Nikita Hazelnut Stuck",
+      "brewery": "Antuérpia",
+      "style": "Russian Imperial Stout",
+      "location": "Matias Barbosa - MG",
+      "abv": 11.3,
+      "ibu_scale": 4,
+      "prices": {
+        "half_pint": 16,
+        "pint": 26,
+        "liter": 54
+      }
     }
   ]
 }
