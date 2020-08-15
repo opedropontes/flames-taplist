@@ -122,17 +122,17 @@
     },
     {
       "tap": "09",
-      "image": "/images/beers/sir_ipa.jpeg",
-      "beer": "Sir IPA",
-      "brewery": "Wayne190",
+      "image": "/images/beers/camale_shock.jpeg",
+      "beer": "Shock IPA",
+      "brewery": "Camale",
       "style": "American IPA",
       "location": "São Paulo - SP",
-      "abv": 6.3,
+      "abv": 6.5,
       "ibu_scale": 3,
       "prices": {
-        "half_pint": 14,
-        "pint": 20,
-        "liter": 41
+        "half_pint": 16,
+        "pint": 26,
+        "liter": 55
       }
     },
     {
