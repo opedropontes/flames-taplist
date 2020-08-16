@@ -47,17 +47,17 @@
     },
     {
       "tap": "04",
-      "image": "/images/beers/croma_3_sides.jpeg",
-      "beer": "3 sides",
-      "brewery": "croma",
+      "image": "/images/beers/breve_viagem.jpeg",
+      "beer": "Breve Viagem",
+      "brewery": "Trilha",
       "style": "juicy ipa",
       "location": "São Paulo - SP",
-      "abv": 7.2,
+      "abv": 7.0,
       "ibu_scale": 3,
       "prices": {
-        "half_pint": 21,
-        "pint": 35,
-        "liter": 70
+        "half_pint": 19,
+        "pint": 32,
+        "liter": 67
       }
     },
     {
