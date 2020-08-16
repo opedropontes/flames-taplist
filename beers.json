@@ -32,17 +32,17 @@
     },
     {
       "tap": "03",
-      "image": "/images/beers/orange_sunshine.jpeg",
-      "beer": "Orange Sunshine",
-      "brewery": "Hocus Pocus",
-      "style": "Blonde Ale Laranja",
-      "location": "Rio de Janeiro - RJ",
-      "abv": 5.0,
-      "ibu_scale": 1,
+      "image": "/images/beers/rossa.jpeg",
+      "beer": "Rossa",
+      "brewery": "Noi",
+      "style": "Irish Red Ale",
+      "location": "Niterói - RJ",
+      "abv": 5.8,
+      "ibu_scale": 2,
       "prices": {
-        "half_pint": 12,
-        "pint": 19,
-        "liter": 38
+        "half_pint": 11,
+        "pint": 18,
+        "liter": 37
       }
     },
     {
