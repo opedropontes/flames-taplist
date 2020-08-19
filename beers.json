@@ -130,9 +130,9 @@
       "abv": 6.5,
       "ibu_scale": 3,
       "prices": {
-        "half_pint": 16,
-        "pint": 26,
-        "liter": 55
+        "half_pint": 18,
+        "pint": 30,
+        "liter": 63
       }
     },
     {
@@ -152,17 +152,17 @@
     },
     {
       "tap": "11",
-      "image": "/images/beers/trilha_melonrise.jpeg",
-      "beer": "Melonrise",
-      "brewery": "Trilha",
-      "style": "American IPA",
+      "image": "/images/beers/camale_black_ipa.jpeg",
+      "beer": "Black IPA",
+      "brewery": "Camale",
+      "style": "Black IPA",
       "location": "São Paulo - SP",
-      "abv": 7,
+      "abv": 6,
       "ibu_scale": 3,
       "prices": {
-        "half_pint": 19,
-        "pint": 32,
-        "liter": 67
+        "half_pint": 18,
+        "pint": 30,
+        "liter": 63
       }
     },
     {
