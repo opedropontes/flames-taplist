@@ -17,17 +17,17 @@
     },
     {
       "tap": "02",
-      "image": "/images/beers/wayne_weiss.jpeg",
-      "beer": "Weiss que é sua",
-      "brewery": "Wayne190",
+      "image": "/images/beers/paulaner_weiss.jpeg",
+      "beer": "Paulaner",
+      "brewery": "Paulaner",
       "style": "Weiss",
-      "location": "São Paulo - SP",
-      "abv": 5.2,
+      "location": "Alemanha",
+      "abv": 5.5,
       "ibu_scale": 1,
       "prices": {
-        "half_pint": 10,
-        "pint": 17,
-        "liter": 35
+        "half_pint": 14,
+        "pint": 24,
+        "liter": 48
       }
     },
     {
