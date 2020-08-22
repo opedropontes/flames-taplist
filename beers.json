@@ -167,17 +167,17 @@
     },
     {
       "tap": "12",
-      "image": "/images/beers/antuerpia_nikita_hazelnut.jpeg",
-      "beer": "Nikita Hazelnut Stuck",
-      "brewery": "Antuérpia",
-      "style": "Russian Imperial Stout",
-      "location": "Matias Barbosa - MG",
-      "abv": 11.3,
-      "ibu_scale": 4,
+      "image": "/images/beers/endorphina_doktor.jpeg",
+      "beer": "Endorphina",
+      "brewery": "Doktor Braü",
+      "style": "New England IPA",
+      "location": "Congonhal - MG",
+      "abv": 6.5,
+      "ibu_scale": 3,
       "prices": {
-        "half_pint": 16,
-        "pint": 26,
-        "liter": 54
+        "half_pint": 18,
+        "pint": 29,
+        "liter": 60
       }
     }
   ]
