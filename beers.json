@@ -62,17 +62,17 @@
     },
     {
       "tap": "05",
-      "image": "/images/beers/zev_neipa_manga.jpeg",
-      "beer": "ZEV NE IPA",
-      "brewery": "Zev",
-      "style": "NE IPA c/ manga",
-      "location": "São Paulo - SP",
-      "abv": 6.5,
+      "image": "/images/beers/apacadabra.jpeg",
+      "beer": "APA Cadabra",
+      "brewery": "Hocus Pocus",
+      "style": "APA",
+      "location": "Rio de Janeiro - RJ",
+      "abv": 5.2,
       "ibu_scale": 3,
       "prices": {
-        "half_pint": 16,
-        "pint": 26,
-        "liter": 55
+        "half_pint": 15,
+        "pint": 25,
+        "liter": 53
       }
     },
     {
