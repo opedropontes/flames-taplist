@@ -137,17 +137,17 @@
     },
     {
       "tap": "10",
-      "image": "/images/beers/dama_stout.jpeg",
-      "beer": "Dama Stout",
-      "brewery": "Dama",
-      "style": "Stout",
-      "location": "Piracicaba - SP",
-      "abv": 6,
+      "image": "/images/beers/zev_stout.jpeg",
+      "beer": "Dry Stout",
+      "brewery": "Zev",
+      "style": "Dry Stout",
+      "location": "São Paulo - SP",
+      "abv": 4.1,
       "ibu_scale": 2,
       "prices": {
-        "half_pint": 11,
-        "pint": 18,
-        "liter": 37
+        "half_pint": 12,
+        "pint": 20,
+        "liter": 42
       }
     },
     {
