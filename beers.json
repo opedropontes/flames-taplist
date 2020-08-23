@@ -17,17 +17,17 @@
     },
     {
       "tap": "02",
-      "image": "/images/beers/paulaner_weiss.jpeg",
-      "beer": "Paulaner",
-      "brewery": "Paulaner",
+      "image": "/images/beers/noi_bianca.jpeg",
+      "beer": "Bianca",
+      "brewery": "Noi",
       "style": "Weiss",
-      "location": "Alemanha",
-      "abv": 5.5,
+      "location": "Niterói - RJ",
+      "abv": 4.9,
       "ibu_scale": 1,
       "prices": {
-        "half_pint": 14,
-        "pint": 24,
-        "liter": 48
+        "half_pint": 13,
+        "pint": 22,
+        "liter": 44
       }
     },
     {
