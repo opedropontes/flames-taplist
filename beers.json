@@ -92,17 +92,17 @@
     },
     {
       "tap": "07",
-      "image": "/images/beers/camale.jpeg",
-      "beer": "Hazy IPA",
-      "brewery": "Camale",
-      "style": "Hazy IPA",
-      "location": "São Paulo - SP",
-      "abv": 6.5,
+      "image": "/images/beers/doktor_psicotipa.jpeg",
+      "beer": "Psicot'IPA",
+      "brewery": "Doktor Braü",
+      "style": "American IPA",
+      "location": "Congonhal - MG",
+      "abv": 7.2,
       "ibu_scale": 3,
       "prices": {
-        "half_pint": 20,
-        "pint": 33,
-        "liter": 63
+        "half_pint": 12,
+        "pint": 20,
+        "liter": 42
       }
     },
     {
