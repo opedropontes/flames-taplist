@@ -32,17 +32,17 @@
     },
     {
       "tap": "03",
-      "image": "/images/beers/rossa.jpeg",
-      "beer": "Rossa",
-      "brewery": "Noi",
-      "style": "Irish Red Ale",
-      "location": "Niterói - RJ",
-      "abv": 5.8,
-      "ibu_scale": 2,
+      "image": "/images/beers/japas_oishii.jpeg",
+      "beer": "Oishii",
+      "brewery": "Japas",
+      "style": "Witbier",
+      "location": "Várzea Paulista - SP",
+      "abv": 4.7,
+      "ibu_scale": 1,
       "prices": {
-        "half_pint": 11,
-        "pint": 18,
-        "liter": 37
+        "half_pint": 12,
+        "pint": 19,
+        "liter": 40
       }
     },
     {
