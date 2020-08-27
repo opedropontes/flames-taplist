@@ -92,17 +92,17 @@
     },
     {
       "tap": "07",
-      "image": "/images/beers/doktor_psicotipa.jpeg",
-      "beer": "Psicot'IPA",
-      "brewery": "Doktor Braü",
+      "image": "/images/beers/maredeminas.jpeg",
+      "beer": "Maré de Minas",
+      "brewery": "Satélite",
       "style": "American IPA",
-      "location": "Congonhal - MG",
-      "abv": 7.2,
+      "location": "São Paulo - SP",
+      "abv": 7,
       "ibu_scale": 3,
       "prices": {
-        "half_pint": 12,
-        "pint": 20,
-        "liter": 42
+        "half_pint": 15,
+        "pint": 25,
+        "liter": 53
       }
     },
     {
