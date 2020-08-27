@@ -8,7 +8,7 @@
       "style": "Rye Lager",
       "location": "São Paulo - SP",
       "abv": 5.5,
-      "ibu_scale": 2,
+      "ibu_scale": 1,
       "prices": {
         "half_pint": 10,
         "pint": 16,
