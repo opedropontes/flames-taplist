@@ -69,7 +69,7 @@ body,
 #h-beer {
   display: flex;
   justify-content: center;
-  width: 25vw;
+  width: 25vw; /*25*/
 }
 #h-ibu {
   display: flex;
@@ -94,7 +94,7 @@ body,
 #h-litro {
   display: flex;
   justify-content: center;
-  width: 12.5vw;
+  width: 12.5vw; /* 12.5*/
 }
 #content {
   font-family: balboa-plus-fill, sans-serif;

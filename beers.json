@@ -107,13 +107,13 @@
     },
     {
       "tap": "08",
-      "image": "/images/beers/noiva2.jpeg",
-      "beer": "A Noiva - Vol. 2",
-      "brewery": "Mafiosa",
-      "style": "Sour Gose Maracujá",
-      "location": "Valinhos - SP",
-      "abv": 4.1,
-      "ibu_scale": 1,
+      "image": "/images/beers/camale_session_ipa.jpeg",
+      "beer": "Session IPA",
+      "brewery": "Camale",
+      "style": "Session IPA",
+      "location": "São Paulo - SP",
+      "abv": 5,
+      "ibu_scale": 3,
       "prices": {
         "half_pint": 15,
         "pint": 25,
@@ -152,17 +152,17 @@
     },
     {
       "tap": "11",
-      "image": "/images/beers/camale_black_ipa.jpeg",
-      "beer": "Black IPA",
-      "brewery": "Camale",
-      "style": "Black IPA",
+      "image": "/images/beers/dogma_rizoma.jpeg",
+      "beer": "Rizoma",
+      "brewery": "Dogma",
+      "style": "Double IPA",
       "location": "São Paulo - SP",
-      "abv": 6,
-      "ibu_scale": 3,
+      "abv": 8.3,
+      "ibu_scale": 4,
       "prices": {
-        "half_pint": 18,
-        "pint": 30,
-        "liter": 63
+        "half_pint": 26,
+        "pint": 42,
+        "liter": 88
       }
     },
     {
@@ -178,6 +178,21 @@
         "half_pint": 18,
         "pint": 29,
         "liter": 60
+      }
+    },
+    {
+      "tap": "15",
+      "image": "/images/beers/japas_daruma_barrel.jpeg",
+      "beer": "Black Daruma Barrel Aged",
+      "brewery": "Japas",
+      "style": "Russian Imperial Stout",
+      "location": "Várzea Paulista - SP",
+      "abv": 11,
+      "ibu_scale": 3,
+      "prices": {
+        "half_pint": 22,
+        "pint": 37,
+        "liter": 79
       }
     }
   ]
