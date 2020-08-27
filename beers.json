@@ -2,17 +2,17 @@
   "beers": [
     {
       "tap": "01",
-      "image": "/images/beers/hocus_pandora.jpeg",
-      "beer": "Pandora",
-      "brewery": "Hocus Pocus",
-      "style": "Helles",
-      "location": "Rio de Janeiro - RJ",
-      "abv": 5.0,
-      "ibu_scale": 1,
+      "image": "/images/beers/satelite_crispy.jpeg",
+      "beer": "Space Lab Mission",
+      "brewery": "Satélite",
+      "style": "Rye Lager",
+      "location": "São Paulo - SP",
+      "abv": 5.5,
+      "ibu_scale": 2,
       "prices": {
         "half_pint": 10,
-        "pint": 17,
-        "liter": 35
+        "pint": 16,
+        "liter": 34
       }
     },
     {
