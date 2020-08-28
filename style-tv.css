@@ -9,7 +9,7 @@
   height: calc(100vh / 5.64);
 }
 .tap .c-beer .beer-name {
-  font-size: calc((100vh / 5) * 0.25);
+  font-size: calc((100vh / 6) * 0.25);
 }
 .tap .c-beer .beer-info {
   font-size: calc((100vh / 7) * 0.2);
