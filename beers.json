@@ -181,6 +181,36 @@
       }
     },
     {
+      "tap": "13",
+      "image": "/images/beers/everbrew_balance.jpeg",
+      "beer": "Balance",
+      "brewery": "Everbrew",
+      "style": "New England APA",
+      "location": "Santos - SP",
+      "abv": 5.2,
+      "ibu_scale": 3,
+      "prices": {
+        "half_pint": 17,
+        "pint": 28,
+        "liter": 59
+      }
+    },
+    {
+      "tap": "14",
+      "image": "/images/beers/hocus_magictrap.jpeg",
+      "beer": "Magic Trap",
+      "brewery": "Hocus Pocus",
+      "style": "Belgian Strong Golden Ale",
+      "location": "Rio de Janeiro - RJ",
+      "abv": 8.5,
+      "ibu_scale": 3,
+      "prices": {
+        "half_pint": 15,
+        "pint": 24,
+        "liter": 50
+      }
+    },
+    {
       "tap": "15",
       "image": "/images/beers/japas_daruma_barrel.jpeg",
       "beer": "Black Daruma Barrel Aged",
