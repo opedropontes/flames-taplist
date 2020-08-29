@@ -3,16 +3,16 @@
     {
       "tap": "01",
       "image": "/images/beers/satelite_crispy.jpeg",
-      "beer": "Space Lab Mission",
-      "brewery": "Satélite",
-      "style": "Rye Lager",
+      "beer": "Premium Pilsen",
+      "brewery": "Wayne190",
+      "style": "Pilsen",
       "location": "São Paulo - SP",
-      "abv": 5.5,
+      "abv": 5.1,
       "ibu_scale": 1,
       "prices": {
-        "half_pint": 10,
-        "pint": 16,
-        "liter": 34
+        "half_pint": 9,
+        "pint": 14,
+        "liter": 29
       }
     },
     {
