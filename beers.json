@@ -107,17 +107,17 @@
     },
     {
       "tap": "08",
-      "image": "/images/beers/camale_session_ipa.jpeg",
-      "beer": "Session IPA",
-      "brewery": "Camale",
+      "image": "/images/beers/lote_preopen.jpeg",
+      "beer": "Pre-Open",
+      "brewery": "Lote",
       "style": "Session IPA",
       "location": "São Paulo - SP",
       "abv": 5,
       "ibu_scale": 3,
       "prices": {
-        "half_pint": 15,
-        "pint": 25,
-        "liter": 53
+        "half_pint": 12,
+        "pint": 20,
+        "liter": 41
       }
     },
     {
