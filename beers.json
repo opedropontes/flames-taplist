@@ -33,12 +33,12 @@
     {
       "tap": "03",
       "image": "/images/beers/japas_oishii.jpeg",
-      "beer": "Oishii",
+      "beer": "Oishii bla bla",
       "brewery": "Japas",
       "style": "Witbier",
       "location": "Várzea Paulista - SP",
       "abv": 4.7,
-      "ibu_scale": 1,
+      "ibu_scale": 3,
       "prices": {
         "half_pint": 12,
         "pint": 19,
