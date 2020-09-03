@@ -32,17 +32,17 @@
     },
     {
       "tap": "03",
-      "image": "/images/beers/japas_oishii.jpeg",
-      "beer": "Oishii",
-      "brewery": "Japas",
+      "image": "/images/beers/eugenia.jpeg",
+      "beer": "Eugênia",
+      "brewery": "Antuérpia",
       "style": "Witbier",
-      "location": "Várzea Paulista - SP",
-      "abv": 4.7,
+      "location": "Matias Barbosa - MG",
+      "abv": 5.5,
       "ibu_scale": 1,
       "prices": {
-        "half_pint": 12,
-        "pint": 19,
-        "liter": 40
+        "half_pint": 11,
+        "pint": 17,
+        "liter": 35
       }
     },
     {
