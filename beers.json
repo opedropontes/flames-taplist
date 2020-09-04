@@ -122,17 +122,17 @@
     },
     {
       "tap": "09",
-      "image": "/images/beers/noi_fiorella.jpeg",
-      "beer": "Fiorella",
-      "brewery": "Noi",
+      "image": "/images/beers/camale_shock.jpeg",
+      "beer": "Shock IPA",
+      "brewery": "Camale",
       "style": "American IPA",
-      "location": "Niterói - RJ",
-      "abv": 6.3,
+      "location": "São Paulo - SP",
+      "abv": 6.5,
       "ibu_scale": 3,
       "prices": {
-        "half_pint": 17,
-        "pint": 28,
-        "liter": 59
+        "half_pint": 18,
+        "pint": 30,
+        "liter": 63
       }
     },
     {
