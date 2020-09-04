@@ -152,17 +152,17 @@
     },
     {
       "tap": "11",
-      "image": "/images/beers/dogma_rizoma.jpeg",
-      "beer": "Rizoma",
+      "image": "/images/beers/citra_lover.jpeg",
+      "beer": "Citra Lover",
       "brewery": "Dogma",
       "style": "Double IPA",
       "location": "São Paulo - SP",
-      "abv": 8.3,
+      "abv": 8.7,
       "ibu_scale": 4,
       "prices": {
-        "half_pint": 26,
-        "pint": 42,
-        "liter": 88
+        "half_pint": 23,
+        "pint": 38,
+        "liter": 80
       }
     },
     {
