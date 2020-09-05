@@ -62,17 +62,17 @@
     },
     {
       "tap": "05",
-      "image": "/images/beers/dogma_apa.jpeg",
-      "beer": "American Pale Ale",
-      "brewery": "Dogma",
-      "style": "APA",
+      "image": "/images/beers/zev_wild_sour.jpeg",
+      "beer": "Wild Sour",
+      "brewery": "Zev",
+      "style": "Wild Ale",
       "location": "São Paulo - SP",
-      "abv": 5.8,
-      "ibu_scale": 3,
+      "abv": 8.3,
+      "ibu_scale": 1,
       "prices": {
-        "half_pint": 14,
-        "pint": 22,
-        "liter": 44
+        "half_pint": 15,
+        "pint": 24,
+        "liter": 51
       }
     },
     {
