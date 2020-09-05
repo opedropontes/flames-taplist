@@ -167,17 +167,17 @@
     },
     {
       "tap": "12",
-      "image": "/images/beers/endorphina_doktor.jpeg",
-      "beer": "Endorphina",
-      "brewery": "Doktor Braü",
+      "image": "/images/beers/cathedral_green_city.jpeg",
+      "beer": "Green City",
+      "brewery": "Cathedral",
       "style": "New England IPA",
-      "location": "Congonhal - MG",
-      "abv": 6.5,
+      "location": "Maringá - PR",
+      "abv": 6.2,
       "ibu_scale": 3,
       "prices": {
-        "half_pint": 18,
-        "pint": 29,
-        "liter": 60
+        "half_pint": 16,
+        "pint": 26,
+        "liter": 55
       }
     },
     {
