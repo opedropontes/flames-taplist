@@ -2,17 +2,17 @@
   "beers": [
     {
       "tap": "01",
-      "image": "/images/beers/wayne190_pilsen.jpeg",
-      "beer": "Premium Pilsen",
-      "brewery": "Wayne190",
+      "image": "/images/beers/pilsendoktor.jpg",
+      "beer": "Pilsen",
+      "brewery": "doktor braü",
       "style": "Pilsen",
-      "location": "São Paulo - SP",
-      "abv": 5.1,
+      "location": "congonhal - mg",
+      "abv": 4.5,
       "ibu_scale": 1,
       "prices": {
         "half_pint": 9,
-        "pint": 14,
-        "liter": 29
+        "pint": 15,
+        "liter": 32
       }
     },
     {
