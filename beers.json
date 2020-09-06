@@ -18,7 +18,7 @@
     {
       "tap": "02",
       "image": "/images/beers/wayne_weiss.jpeg",
-      "beer": "Weiss que é suA",
+      "beer": "Weiss que é sua",
       "brewery": "Wayne190",
       "style": "Weiss",
       "location": "São Paulo - SP",
@@ -47,7 +47,7 @@
     },
     {
       "tap": "04",
-      "image": "/images/beers/trilha_quartzo.jpeg",
+      "image": "/images/beers/carvoeira.jpeg",
       "beer": "Quartzo",
       "brewery": "Trilha",
       "style": "juicy ipa",
