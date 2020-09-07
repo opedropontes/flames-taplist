@@ -180,7 +180,21 @@
         "liter": 55
       }
     },
-    
+    {
+      "tap": "13",
+      "image": "/images/beersaustralisat.jpeg/",
+      "beer": "Australisat",
+      "brewery": "Satélite",
+      "style": "Australian Pale Ale",
+      "location": "São Paulo - SP",
+      "abv": 5,
+      "ibu_scale": 3,
+      "prices": {
+        "half_pint": 14,
+        "pint": 22,
+        "liter": 46
+      }
+    },
     {
       "tap": "14",
       "image": "/images/beers/hocus_magictrap.jpeg",
