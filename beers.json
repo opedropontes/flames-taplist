@@ -182,7 +182,7 @@
     },
     {
       "tap": "13",
-      "image": "/images/beersaustralisat.jpeg/",
+      "image": "/images/beersaustralisat.jpeg",
       "beer": "Australisat",
       "brewery": "Satélite",
       "style": "Australian Pale Ale",
