@@ -180,21 +180,7 @@
         "liter": 55
       }
     },
-    {
-      "tap": "13",
-      "image": "/images/beers/everbrew_balance.jpeg",
-      "beer": "Balance",
-      "brewery": "Everbrew",
-      "style": "New England APA",
-      "location": "Santos - SP",
-      "abv": 5.2,
-      "ibu_scale": 3,
-      "prices": {
-        "half_pint": 17,
-        "pint": 28,
-        "liter": 59
-      }
-    },
+    
     {
       "tap": "14",
       "image": "/images/beers/hocus_magictrap.jpeg",
