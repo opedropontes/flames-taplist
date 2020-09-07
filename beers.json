@@ -111,10 +111,10 @@
       
       "image": "/images/beers/venicebeach.jpg",
       "beer": "Venice Beach",
-      "brewery": "Dadiva",
+      "brewery": "Dádiva",
       "style": "Session IPA",
-      "location": "Varzea Paulista - SP",
-      "abv": 4,5,
+      "location": "Várzea Paulista - SP",
+      "abv": 4.5,
       "ibu_scale": 1,
       "prices": {
         "half_pint": 14,
