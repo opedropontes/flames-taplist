@@ -47,17 +47,17 @@
     },
     {
       "tap": "04",
-      "image": "/images/beers/trilha_quartzo.jpeg",
-      "beer": "Quartzo",
-      "brewery": "Trilha",
-      "style": "juicy ipa",
-      "location": "São Paulo - SP",
-      "abv": 7.0,
+      "image": "/images/beers/vermont.jpeg",
+      "beer": "Vertmont",
+      "brewery": "Antuérpia",
+      "style": "Double New England Ipa",
+      "location": "Matias Barbosa - MG",
+      "abv": 8.1,
       "ibu_scale": 3,
       "prices": {
-        "half_pint": 19,
-        "pint": 32,
-        "liter": 67
+        "half_pint": 14,
+        "pint": 22,
+        "liter": 45
       }
     },
     {
