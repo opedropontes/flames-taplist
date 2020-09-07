@@ -107,17 +107,19 @@
     },
     {
       "tap": "08",
-      "image": "/images/beers/lote_preopen.png",
-      "beer": "Pre-Open",
-      "brewery": "Lote",
+     
+      
+      "image": "/images/beers/venicebeach.jpg",
+      "beer": "Venice Beach",
+      "brewery": "Dadiva",
       "style": "Session IPA",
-      "location": "São Paulo - SP",
-      "abv": 5,
-      "ibu_scale": 3,
+      "location": "Varzea Paulista - SP",
+      "abv": 4,5,
+      "ibu_scale": 1,
       "prices": {
-        "half_pint": 12,
-        "pint": 20,
-        "liter": 41
+        "half_pint": 14,
+        "pint": 23,
+        "liter": 48
       }
     },
     {
