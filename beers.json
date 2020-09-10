@@ -137,17 +137,17 @@
     },
     {
       "tap": "10",
-      "image": "/images/beers/zev_stout.jpeg",
-      "beer": "Dry Stout",
-      "brewery": "Zev",
-      "style": "Dry Stout",
-      "location": "São Paulo - SP",
-      "abv": 4.1,
+      "image": "/images/beers/godbless.jpeg",
+      "beer": "God Bless ",
+      "brewery": "Mafiosa",
+      "style": "Milk Stout",
+      "location": "Valinhos - SP",
+      "abv": 6.7,
       "ibu_scale": 2,
       "prices": {
-        "half_pint": 12,
-        "pint": 20,
-        "liter": 42
+        "half_pint":17,
+        "pint": 28,
+        "liter": 59
       }
     },
     {
