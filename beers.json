@@ -2,7 +2,7 @@
   "beers": [
     {
       "tap": "01",
-      "image": "/images/beers/dadiva_premium_lager.jpg",
+      "image": "/images/beers/dadiva.jpeg",
       "beer": "Premiun Lager",
       "brewery": "Dádiva",
       "style": "Lager",
