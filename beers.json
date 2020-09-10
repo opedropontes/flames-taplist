@@ -2,17 +2,17 @@
   "beers": [
     {
       "tap": "01",
-      "image": "/images/beers/pilsendoktor.jpg",
-      "beer": "Pilsen",
-      "brewery": "doktor braü",
-      "style": "Pilsen",
-      "location": "congonhal - mg",
+      "image": "/images/beers/dadiva_premium_lager.jpg",
+      "beer": "Premiun Lager",
+      "brewery": "Dádiva",
+      "style": "Lager",
+      "location": "Várzea Paulista - SP",
       "abv": 4.5,
       "ibu_scale": 1,
       "prices": {
-        "half_pint": 9,
-        "pint": 15,
-        "liter": 32
+        "half_pint": 10,
+        "pint": 17,
+        "liter": 35
       }
     },
     {
