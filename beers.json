@@ -137,11 +137,11 @@
     },
     {
       "tap": "10",
-      "image": "/images/beers/godbless.jpeg",
-      "beer": "God Bless ",
+      "image": "/images/beers/godbless.jpeg",,
+      "beer":  " God Bless" ",
       "brewery": "Mafiosa",
       "style": "Milk Stout",
-      "location": "Valinhos - SP",
+      "location": "VALINHOS - SP",
       "abv": 6.7,
       "ibu_scale": 2,
       "prices": {
@@ -212,17 +212,17 @@
     },
     {
       "tap": "15",
-      "image": "/images/beers/japas_daruma_barrel.jpeg",
-      "beer": "Black Daruma Barrel Aged",
-      "brewery": "Japas",
-      "style": "Russian Imperial Stout",
-      "location": "Várzea Paulista - SP",
-      "abv": 11,
+      "image": "/images/beers/blackjpeg",
+      "beer": "Black Chocolate",
+      "brewery": "Brooklyn",
+      "style": "Stout",
+      "location": "Nova York",
+      "abv": 10,
       "ibu_scale": 3,
       "prices": {
-        "half_pint": 22,
-        "pint": 37,
-        "liter": 79
+        "half_pint": 218,
+        "pint": 29,
+        "liter": 62
       }
     }
   ]
