@@ -32,17 +32,17 @@
     },
     {
       "tap": "03",
-      "image": "/images/beers/eugenia.jpeg",
-      "beer": "Eugênia",
-      "brewery": "Antuérpia",
+      "image": "/images/beers/witamina.jpeg",
+      "beer": "Witamina",
+      "brewery": "Doktor Braü",
       "style": "Witbier",
-      "location": "Matias Barbosa - MG",
-      "abv": 5.5,
+      "location": "Congonhal - MG",
+      "abv": 4.5,
       "ibu_scale": 1,
       "prices": {
         "half_pint": 11,
         "pint": 17,
-        "liter": 35
+        "liter": 36
       }
     },
     {
