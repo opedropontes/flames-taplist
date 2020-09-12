@@ -106,20 +106,7 @@
       }
     },
     {
-      "tap": "08",
-      "image": "/images/beers/nevoa.jpg",
-      "beer": "Nevoa Galaxy",
-      "brewery": "Antuérpia",
-      "style": "New England APA",
-      "location": "Minas Gerais - MG",
-      "abv": 5.2,
-      "ibu_scale": 2,
-      "prices": {
-        "half_pint": 16,
-        "pint": 27,
-        "liter": 56
-      }
-    },
+
     {
       "tap": "09",
       "image": "/images/beers/camale_shock.jpeg",    
