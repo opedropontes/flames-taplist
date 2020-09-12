@@ -114,7 +114,7 @@
     "style": "New England APA",
     "location": "Matias Barbosa - MG",
     "abv": 5.2,
-    "ibu_scale": 1,
+    "ibu_scale": 3,
     "prices": {
       "half_pint": 16,
       "pint": 27,
