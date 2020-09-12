@@ -2,11 +2,11 @@
   "beers": [
     {
       "tap": "01",
-      "image": "/images/beers/wayne190_pilsen.jpeg",
+      "image": "/images/beers/doktor_brau_logo.jpeg",
       "beer": "Pilsen",
-      "brewery": "Wayne 190",
+      "brewery": "Doktor Braü",
       "style": "Pilsen",
-      "location": "Sorocoba - SP",
+      "location": "Congonhal - MG",
       "abv": 5.1,
       "ibu_scale": 1,
       "prices": {
