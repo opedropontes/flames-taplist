@@ -152,12 +152,12 @@
     },
     {
       "tap": "11",
-      "image": "/images/beers/citra_lover.jpeg",
-      "beer": "Citra Lover",
+      "image": "/images/beers/dogmatron.jpeg",
+      "beer": "Dogmatron",
       "brewery": "Dogma",
       "style": "Double IPA",
       "location": "São Paulo - SP",
-      "abv": 8.7,
+      "abv": 8.1,
       "ibu_scale": 4,
       "prices": {
         "half_pint": 23,
