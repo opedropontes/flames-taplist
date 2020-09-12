@@ -107,22 +107,21 @@
     },
     {
     
-          "tap": "07",
-      "image": "/images/beers/mexerica.jpg",
-      "beer": "Quintal Catharina Sour Mexerica",
-      "brewery": "Antuérpia",
-      "style": "Catharina Sour",
-      "location": "Matias Barbosa - MG",
-      "abv": 4.5,
-      "ibu_scale": 1,
-      "prices": {
-        "half_pint": 13,
-        "pint": 21,
-        "liter": 43
+        "tap": "08",
+    "image": "/images/beers/nevoa.jpg",
+    "beer": "Nevoa Galaxy",
+    "brewery": "Antuérpia",
+    "style": "New England APA",
+    "location": "Matias Barbosa - MG",
+    "abv": 5.2,
+    "ibu_scale": 1,
+    "prices": {
+      "half_pint": 16,
+      "pint": 27,
+      "liter": 56
       }
     },
     {
-    
       "tap": "09",
       "image": "/images/beers/camale_shock.jpeg",    
       "beer": "Shock IPA",
