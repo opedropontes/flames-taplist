@@ -2,12 +2,12 @@
   "beers": [
     {
       "tap": "01",
-      "image": "/images/beers/doktor_brau_logo.jpeg",
+      "image": "/images/beers/pilsendoktor.jpg",
       "beer": "Pilsen",
       "brewery": "Doktor Braü",
       "style": "Pilsen",
       "location": "Congonhal - MG",
-      "abv": 5.1,
+      "abv": 4.5,
       "ibu_scale": 1,
       "prices": {
         "half_pint": 10,
