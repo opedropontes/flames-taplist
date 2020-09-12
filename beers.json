@@ -2,12 +2,12 @@
   "beers": [
     {
       "tap": "01",
-      "image": "/images/beers/dadiva.jpeg",
-      "beer": "Premiun Lager",
-      "brewery": "Dádiva",
-      "style": "Lager",
-      "location": "Várzea Paulista - SP",
-      "abv": 4.5,
+      "image": "/images/beers/wayne190_pilsen.jpeg",
+      "beer": "Pilsen",
+      "brewery": "Wayne 190",
+      "style": "Pilsen",
+      "location": "Sorocoba - SP",
+      "abv": 5.1,
       "ibu_scale": 1,
       "prices": {
         "half_pint": 10,
