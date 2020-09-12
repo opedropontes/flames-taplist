@@ -107,17 +107,17 @@
     },
     {
       "tap": "08",
-      "image": "/images/beers/venice.jpeg",
-      "beer": "Venice Beach",
-      "brewery": "Dádiva",
-      "style": "Session IPA",
-      "location": "Várzea Paulista - SP",
-      "abv": 4.5,
-      "ibu_scale": 1,
+      "image": "/images/beers/nevoa.jpg",
+      "beer": "Nevoa Galaxy",
+      "brewery": "Antuérpia",
+      "style": "New England APA",
+      "location": "Minas Gerais - MG",
+      "abv": 5.2,
+      "ibu_scale": 2,
       "prices": {
-        "half_pint": 14,
-        "pint": 23,
-        "liter": 48
+        "half_pint": 16,
+        "pint": 27,
+        "liter": 56
       }
     },
     {
