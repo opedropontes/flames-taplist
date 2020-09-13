@@ -77,17 +77,17 @@
     },
     {
       "tap": "06",
-      "image": "/images/beers/everbrew.jpeg",
-      "beer": "Makes me Dry",
-      "brewery": "Everbrew",
+      "image": "/images/beers/malibu.jpeg",
+      "beer": "Malibu",
+      "brewery": "Trilha",
       "style": "West Coast IPA",
-      "location": "Santos - SP",
-      "abv": 6.8,
+      "location": "São Paulo - SP",
+      "abv": 6.7,
       "ibu_scale": 3,
       "prices": {
-        "half_pint": 18,
-        "pint": 30,
-        "liter": 63
+        "half_pint": 21,
+        "pint": 35,
+        "liter": 74
       }
     },
     {
