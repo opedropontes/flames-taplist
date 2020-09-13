@@ -17,17 +17,17 @@
     },
     {
       "tap": "02",
-      "image": "/images/beers/wayne_weiss.jpeg",
-      "beer": "Weiss que é sua",
-      "brewery": "Wayne190",
+      "image": "/images/beers/noi-bianca.jpeg",
+      "beer": "Bianca",
+      "brewery": "Noi",
       "style": "Weiss",
-      "location": "São Paulo - SP",
-      "abv": 5.2,
-      "ibu_scale": 1,
+      "location": "Rio de Janeiro - RJ",
+      "abv": 4.9,
+      "ibu_scale": 2,
       "prices": {
-        "half_pint": 11,
-        "pint": 17,
-        "liter": 35
+        "half_pint": 13,
+        "pint": 22,
+        "liter": 44
       }
     },
     {
