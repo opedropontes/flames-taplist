@@ -47,17 +47,17 @@
     },
     {
       "tap": "04",
-      "image": "/images/beers/vermont.jpeg",
-      "beer": "Vertmont",
-      "brewery": "Antuérpia",
-      "style": "Double New England Ipa",
-      "location": "Matias Barbosa - MG",
-      "abv": 8.1,
+      "image": "/images/beers/spicymari.jpeg",
+      "beer": "Spicy Mari",
+      "brewery": "Molinarius",
+      "style": "West Coast Ipa",
+      "location": "São Paulo - SP",
+      "abv": 7.5,
       "ibu_scale": 3,
       "prices": {
-        "half_pint": 14,
-        "pint": 22,
-        "liter": 45
+        "half_pint": 18,
+        "pint": 30,
+        "liter": 63
       }
     },
     {
