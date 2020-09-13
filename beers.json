@@ -124,7 +124,7 @@
     {
       "tap": "09",
       "image": "/images/beers/everipa.jpeg",    
-      "beer": "Ever IPA",
+      "beer": "Everipa",
       "brewery": "Everbrew",
       "style": "American IPA",
       "location": "Santos - SP",
@@ -216,7 +216,7 @@
       "image": "/images/beers/black.jpeg",
       "beer": "Black Chocolate",
       "brewery": "Brooklyn",
-      "style": "Stout",
+      "style": "Ris",
       "location": "Nova York",
       "abv": 10,
       "ibu_scale": 3,
