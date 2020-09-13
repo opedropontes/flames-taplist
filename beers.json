@@ -198,17 +198,17 @@
     },
     {
       "tap": "14",
-      "image": "/images/beers/hocus_magictrap.jpeg",
-      "beer": "Magic Trap",
-      "brewery": "Hocus Pocus",
-      "style": "Belgian Strong Golden Ale",
+      "image": "/images/beers/golden.jpeg",
+      "beer": "Golden Ale",
+      "brewery": "Three Monkeys Beer",
+      "style": "Golden Ale",
       "location": "Rio de Janeiro - RJ",
-      "abv": 8.5,
-      "ibu_scale": 3,
+      "abv": 7.5,
+      "ibu_scale": 2,
       "prices": {
-        "half_pint": 15,
-        "pint": 24,
-        "liter": 50
+        "half_pint": 11,
+        "pint": 19,
+        "liter": 39
       }
     },
     {
