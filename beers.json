@@ -131,9 +131,9 @@
       "abv": 6.6,
       "ibu_scale": 3,
       "prices": {
-        "half_pint": 18,
-        "pint": 30,
-        "liter": 63
+        "half_pint": 20,
+        "pint": 34,
+        "liter": 70
       }
     },
     {
