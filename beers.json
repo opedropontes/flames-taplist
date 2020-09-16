@@ -2,11 +2,11 @@
   "beers": [
     {
       "tap": "01",
-      "image": "/images/beers/pilsendoktor.jpg",
-      "beer": "Pilsen",
-      "brewery": "Doktor Braü",
-      "style": "Pilsen",
-      "location": "Congonhal - MG",
+      "image": "/images/beers/Leuven.jpeg",
+      "beer": "Lite Lager",
+      "brewery": "Leuven",
+      "style": "Lager",
+      "location": "Piracicaba",
       "abv": 4.5,
       "ibu_scale": 1,
       "prices": {
