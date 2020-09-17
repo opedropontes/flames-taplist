@@ -183,17 +183,17 @@
     },
     {
       "tap": "13",
-      "image": "/images/beers/australisatp2.jpeg",
-      "beer": "Australisat",
-      "brewery": "Satélite",
-      "style": "Australian Pale Ale",
-      "location": "São Paulo - SP",
-      "abv": 5,
-      "ibu_scale": 3,
+      "image": "/images/beers/brugsezotblond.jpeg",
+      "beer": "Blond",
+      "brewery": "Brugse Zot",
+      "style": "Belgian Blond",
+      "location": "Bélgica",
+      "abv": 6,
+      "ibu_scale": 1,
       "prices": {
-        "half_pint": 14,
-        "pint": 22,
-        "liter": 46
+        "half_pint": 21,
+        "pint": 34,
+        "liter": 71
       }
     },
     {
