@@ -92,17 +92,17 @@
     },
     {
       "tap": "07",
-      "image": "/images/beers/mexerica.jpg",
-      "beer": "Quintal Catharina Sour Mexerica",
-      "brewery": "Antuérpia",
-      "style": "Catharina Sour",
-      "location": "Matias Barbosa - MG",
+      "image": "/images/beers/sourcaba.jpeg",
+      "beer": "Sourcaba",
+      "brewery": "Synergy",
+      "style": "Berliner Weisse",
+      "location": "Sorocaba - SP",
       "abv": 4.5,
       "ibu_scale": 1,
       "prices": {
-        "half_pint": 13,
-        "pint": 21,
-        "liter": 43
+        "half_pint": 15,
+        "pint": 24,
+        "liter": 51
       }
     },
     {
