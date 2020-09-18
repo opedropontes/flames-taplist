@@ -2,12 +2,12 @@
   "beers": [
     {
       "tap": "01",
-      "image": "/images/beers/Leuven.jpeg",
-      "beer": "Lite Lager",
-      "brewery": "Leuven",
+      "image": "/images/beers/dadiva_premium_lager.jpeg",
+      "beer": "Premium Lager",
+      "brewery": "Dádiva",
       "style": "Lager",
-      "location": "Piracicaba",
-      "abv": 4.5,
+      "location": "Várzea Paulista - SP",
+      "abv": 5.1,
       "ibu_scale": 1,
       "prices": {
         "half_pint": 10,
