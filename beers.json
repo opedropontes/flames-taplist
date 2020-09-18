@@ -153,17 +153,17 @@
     },
     {
       "tap": "11",
-      "image": "/images/beers/dogmatron.jpeg",
-      "beer": "Dogmatron",
-      "brewery": "Dogma",
-      "style": "Double IPA",
-      "location": "São Paulo - SP",
-      "abv": 8.1,
-      "ibu_scale": 4,
+      "image": "/images/beers/humancondition.jpg",
+      "beer": "Humam Condition",
+      "brewery": "Everbrew",
+      "style": "New England Ipa",
+      "location": "Santos - SP",
+      "abv": 7.5,
+      "ibu_scale": 3,
       "prices": {
-        "half_pint": 23,
-        "pint": 38,
-        "liter": 80
+        "half_pint": 22,
+        "pint": 35,
+        "liter": 72
       }
     },
     {
