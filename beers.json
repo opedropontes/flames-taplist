@@ -122,7 +122,7 @@
       }
     },
     {
-      "tap": "09",
+      "tap": "00",
       "image": "/images/beers/everipa.jpeg",    
       "beer": "Everipa",
       "brewery": "Everbrew",
@@ -168,17 +168,17 @@
     },
     {
       "tap": "12",
-      "image": "/images/beers/cathedral_green_city.jpeg",
-      "beer": "Green City",
-      "brewery": "Cathedral",
+      "image": "/images/beers/evermaine.jpeg",
+      "beer": "evermaine",
+      "brewery": "everbrew",
       "style": "New England IPA",
-      "location": "Maringá - PR",
-      "abv": 6.2,
+      "location": "santos - sp",
+      "abv": 7.4,
       "ibu_scale": 3,
       "prices": {
-        "half_pint": 16,
-        "pint": 26,
-        "liter": 55
+        "half_pint": 22,
+        "pint": 35,
+        "liter": 75
       }
     },
     {
