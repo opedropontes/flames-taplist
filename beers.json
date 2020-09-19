@@ -122,18 +122,18 @@
       }
     },
     {
-      "tap": "00",
-      "image": "/images/beers/everipa.jpeg",    
-      "beer": "Everipa",
-      "brewery": "Everbrew",
+      "tap": "09",
+      "image": "/images/beers/doktor_psicotipa.jpeg",    
+      "beer": "psicot'ipa",
+      "brewery": "doktor bräu",
       "style": "American IPA",
-      "location": "Santos - SP",
-      "abv": 6.6,
+      "location": "congonhal - mg",
+      "abv": 7.2,
       "ibu_scale": 3,
       "prices": {
-        "half_pint": 20,
-        "pint": 34,
-        "liter": 70
+        "half_pint": 14,
+        "pint": 23,
+        "liter": 48
       }
     },
     {
