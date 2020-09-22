@@ -47,17 +47,17 @@
     },
     {
       "tap": "04",
-      "image": "/images/beers/spicymari.jpeg",
-      "beer": "Spicy Mari",
-      "brewery": "Molinarius",
-      "style": "West Coast Ipa",
-      "location": "São Paulo - SP",
-      "abv": 7.5,
-      "ibu_scale": 3,
+      "image": "/images/beers/irishantu.jpeg",
+      "beer": "Irish Red Ale",
+      "brewery": "Antuérpia",
+      "style": "Irish Red Ale",
+      "location": "Matias Barbosa - MG",
+      "abv": 4.9,
+      "ibu_scale": 2,
       "prices": {
-        "half_pint": 18,
-        "pint": 30,
-        "liter": 63
+        "half_pint": 12,
+        "pint": 20,
+        "liter": 42
       }
     },
     {
