@@ -17,17 +17,17 @@
     },
     {
       "tap": "02",
-      "image": "/images/beers/noi_bianca.jpeg",
-      "beer": "Bianca",
-      "brewery": "Noi",
-      "style": "Weiss",
-      "location": "Rio de Janeiro - RJ",
-      "abv": 4.9,
-      "ibu_scale": 2,
+      "image": "/images/beers/matsurika.jpeg",
+      "beer": "Matsurika",
+      "brewery": "Japas",
+      "style": "Lager Com Jasmin",
+      "location": "São Paulo - SP",
+      "abv": 5,
+      "ibu_scale": 1,
       "prices": {
-        "half_pint": 13,
-        "pint": 22,
-        "liter": 44
+        "half_pint": 10,
+        "pint": 16,
+        "liter": 34
       }
     },
     {
@@ -198,17 +198,17 @@
     },
     {
       "tap": "14",
-      "image": "/images/beers/golden.jpeg",
-      "beer": "Golden Ale",
-      "brewery": "Three Monkeys Beer",
-      "style": "Golden Ale",
+      "image": "/images/beers/noi_bianca.jpeg",
+      "beer": "Bianca",
+      "brewery": "Noi",
+      "style": "Weiss",
       "location": "Rio de Janeiro - RJ",
-      "abv": 7.5,
+      "abv": 4.9,
       "ibu_scale": 2,
       "prices": {
-        "half_pint": 11,
-        "pint": 19,
-        "liter": 39
+        "half_pint": 13,
+        "pint": 22,
+        "liter": 44
       }
     },
     {
