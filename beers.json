@@ -106,18 +106,18 @@
       }
     },
     {
-    "tap": "08",
-    "image": "/images/beers/nevoa.jpg",
-    "beer": "Nevoa Galaxy",
-    "brewery": "Antuérpia",
-    "style": "New England APA",
-    "location": "Matias Barbosa - MG",
-    "abv": 5.2,
-    "ibu_scale": 3,
-    "prices": {
-      "half_pint": 16,
-      "pint": 27,
-      "liter": 56
+      "tap": "07",
+      "image": "/images/beers/sourcaba.jpeg",
+      "beer": "Sourcaba",
+      "brewery": "Synergy",
+      "style": "Berliner Weisse",
+      "location": "Sorocaba - SP",
+      "abv": 4.5,
+      "ibu_scale": 1,
+      "prices": {
+        "half_pint": 15,
+        "pint": 24,
+        "liter": 51
       }
     },
     {
