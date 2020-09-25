@@ -123,17 +123,17 @@
     },
     {
       "tap": "09",
-      "image": "/images/beers/doktor_psicotipa.jpeg",    
-      "beer": "psicot'ipa",
-      "brewery": "doktor bräu",
-      "style": "American IPA",
-      "location": "congonhal - mg",
-      "abv": 7.2,
-      "ibu_scale": 3,
+      "image": "/images/beers/camale_shock.jpeg",    
+      "beer": "Shock IPA",
+      "brewery": "Camale",
+      "style": " American IPA",
+      "location": "São Paulo - SP",
+      "abv": 6.5,
+      "ibu_scale": 7,
       "prices": {
-        "half_pint": 14,
-        "pint": 23,
-        "liter": 48
+        "half_pint": 18,
+        "pint": 30,
+        "liter": 63
       }
     },
     {
@@ -153,17 +153,17 @@
     },
     {
       "tap": "11",
-      "image": "/images/beers/humancondition.jpg",
-      "beer": "Human Condition",
-      "brewery": "Everbrew",
-      "style": "Juicy Ipa",
-      "location": "Santos - SP",
-      "abv": 7.5,
+      "image": "/images/beers/wayne_invocacao.jpg",
+      "beer": "Invocação",
+      "brewery": "Wayne 190",
+      "style": "Double Ipa",
+      "location": "São Paulo - SP",
+      "abv": 8.4,
       "ibu_scale": 3,
       "prices": {
-        "half_pint": 22,
-        "pint": 35,
-        "liter": 72
+        "half_pint": 16,
+        "pint": 27,
+        "liter": 55
       }
     },
     {
