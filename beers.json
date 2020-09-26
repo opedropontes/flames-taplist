@@ -1,229 +1,229 @@
 {
-  "beers":[
-     {
-        "tap":"01",
-        "image":"/images/beers/dadiva_premium_lager.jpeg",
-        "beer":"Premium Lager",
-        "brewery":"Dádiva",
-        "style":"Lager",
-        "location":"Várzea Paulista - SP",
-        "abv":5.1,
-        "ibu_scale":1,
-        "prices":{
-           "half_pint":10,
-           "pint":17,
-           "liter":35
-        }
-     },
-     {
-        "tap":"02",
-        "image":"/images/beers/matsurika.jpeg",
-        "beer":"Matsurika",
-        "brewery":"Japas",
-        "style":"Pilsen Com Jasmin",
-        "location":"São Paulo - SP",
-        "abv":5,
-        "ibu_scale":1,
-        "prices":{
-           "half_pint":12,
-           "pint":20,
-           "liter":42
-        }
-     },
-     {
-        "tap":"03",
-        "image":"/images/beers/eugenia.jpeg",
-        "beer":"Eugênia",
-        "brewery":"Antuérpia",
-        "style":"Witbier",
-        "location":"Matias Barbosa - MG",
-        "abv":5.5,
-        "ibu_scale":1,
-        "prices":{
-           "half_pint":11,
-           "pint":17,
-           "liter":35
-        }
-     },
-     {
-        "tap":"04",
-        "image":"/images/beers/irish.jpeg",
-        "beer":"Irish Red Ale",
-        "brewery":"Antuérpia",
-        "style":"Irish Red Ale",
-        "location":"Matias Barbosa - MG",
-        "abv":4.9,
-        "ibu_scale":2,
-        "prices":{
-           "half_pint":12,
-           "pint":20,
-           "liter":42
-        }
-     },
-     {
-        "tap":"05",
-        "image":"/images/beers/zev_wild_sour.jpeg",
-        "beer":"Wild Sour",
-        "brewery":"Zev",
-        "style":"Wild Ale",
-        "location":"São Paulo - SP",
-        "abv":8.3,
-        "ibu_scale":1,
-        "prices":{
-           "half_pint":15,
-           "pint":24,
-           "liter":51
-        }
-     },
-     {
-        "tap":"06",
-        "image":"/images/beers/malibu.jpeg",
-        "beer":"Malibu",
-        "brewery":"Trilha",
-        "style":"West Coast IPA",
-        "location":"São Paulo - SP",
-        "abv":6.7,
-        "ibu_scale":3,
-        "prices":{
-           "half_pint":21,
-           "pint":35,
-           "liter":74
-        }
-     },
-     {
-        "tap":"07",
-        "image":"/images/beers/sourcaba.jpeg",
-        "beer":"Sourcaba",
-        "brewery":"Synergy",
-        "style":"Berliner Weisse",
-        "location":"Sorocaba - SP",
-        "abv":4.5,
-        "ibu_scale":1,
-        "prices":{
-           "half_pint":15,
-           "pint":24,
-           "liter":51
-        }
-     },
-     {
-        "tap":"07",
-        "image":"/images/beers/sourcaba.jpeg",
-        "beer":"Sourcaba",
-        "brewery":"Synergy",
-        "style":"Berliner Weisse",
-        "location":"Sorocaba - SP",
-        "abv":4.5,
-        "ibu_scale":1,
-        "prices":{
-           "half_pint":15,
-           "pint":24,
-           "liter":51
-        }
-     },
-     {
-        "tap":"09",
-        "image":"/images/beers/camale_shock.jpeg",
-        "beer":"Shock IPA",
-        "brewery":"Camale",
-        "style":"American IPA",
-        "location":"São Paulo - SP",
-        "abv":6.5,
-        "ibu_scale":7,
-        "prices":{
-           "half_pint":18,
-           "pint":30,
-           "liter":63
-        }
-     },
-     {
-        "tap":"10",
-        "image":"/images/beers/godbless.jpeg",
-        "beer":" God Bless the family",
-        "brewery":"Mafiosa",
-        "style":"Milk Stout",
-        "location":"VALINHOS - SP",
-        "abv":6.7,
-        "ibu_scale":2,
-        "prices":{
-           "half_pint":17,
-           "pint":28,
-           "liter":59
-        }
-     },
-     {
-        "tap":"11",
-        "image":"/images/beers/wayne_invocacao.jpg",
-        "beer":"Invocação",
-        "brewery":"Wayne 190",
-        "style":"Double Ipa",
-        "location":"São Paulo - SP",
-        "abv":8.4,
-        "ibu_scale":3,
-        "prices":{
-           "half_pint":16,
-           "pint":27,
-           "liter":55
-        }
-     },
-     {
-        "tap":"12",
-        "image":"/images/beers/evermaine.jpeg",
-        "beer":"evermaine",
-        "brewery":"everbrew",
-        "style":"New England IPA",
-        "location":"santos - sp",
-        "abv":7.4,
-        "ibu_scale":3,
-        "prices":{
-           "half_pint":22,
-           "pint":35,
-           "liter":75
-        }
-     },
-     {
-        "tap":"13",
-        "image":"/images/beers/brugsezotblond.jpeg",
-        "beer":"Blond",
-        "brewery":"Brugse Zot",
-        "style":"Belgian Blond",
-        "location":"Bélgica",
-        "abv":6,
-        "ibu_scale":1,
-        "prices":{
-           "half_pint":21,
-           "pint":34,
-           "liter":71
-        }
-     },
-     {
-        "tap":"14",
-        "image":"/images/beers/noi_bianca.jpeg",
-        "beer":"Bianca",
-        "brewery":"Noi",
-        "style":"Weiss",
-        "location":"Rio de Janeiro - RJ",
-        "abv":4.9,
-        "ibu_scale":2,
-        "prices":{
-           "half_pint":13,
-           "pint":22,
-           "liter":44
-        }
-     },
-     {
-        "tap":"15",
-        "image":"/images/beers/black.jpeg",
-        "beer":"Black Chocolate",
-        "brewery":"Brooklyn",
-        "style":"Ris",
-        "location":"Nova York",
-        "abv":10,
-        "ibu_scale":3,
-        "prices":{
-           "half_pint":21,
-           "pint":29,
-           "liter":62
-        }
-     }
+  "beers": [
+    {
+      "tap": "01",
+      "image": "/images/beers/dadiva_premium_lager.jpeg",
+      "beer": "Premium Lager",
+      "brewery": "Dádiva",
+      "style": "Lager",
+      "location": "Várzea Paulista - SP",
+      "abv": 5.1,
+      "ibu_scale": 1,
+      "prices": {
+        "half_pint": 10,
+        "pint": 17,
+        "liter": 35
+      }
+    },
+    {
+      "tap": "02",
+      "image": "/images/beers/matsurika.jpeg",
+      "beer": "Matsurika",
+      "brewery": "Japas",
+      "style": "Pilsen Com Jasmin",
+      "location": "São Paulo - SP",
+      "abv": 5.0,
+      "ibu_scale": 1,
+      "prices": {
+        "half_pint": 12,
+        "pint": 20,
+        "liter": 42
+      }
+    },
+    {
+      "tap": "03",
+      "image": "/images/beers/eugenia.jpeg",
+      "beer": "Eugênia",
+      "brewery": "Antuérpia",
+      "style": "Witbier",
+      "location": "Matias Barbosa - MG",
+      "abv": 5.5,
+      "ibu_scale": 1,
+      "prices": {
+        "half_pint": 11,
+        "pint": 17,
+        "liter": 35
+      }
+    },
+    {
+      "tap": "04",
+      "image": "/images/beers/irish.jpeg",
+      "beer": "Irish Red Ale",
+      "brewery": "Antuérpia",
+      "style": "Irish Red Ale",
+      "location": "Matias Barbosa - MG",
+      "abv": 4.9,
+      "ibu_scale": 2,
+      "prices": {
+        "half_pint": 12,
+        "pint": 20,
+        "liter": 42
+      }
+    },
+    {
+      "tap": "05",
+      "image": "/images/beers/zev_wild_sour.jpeg",
+      "beer": "Wild Sour",
+      "brewery": "Zev",
+      "style": "Wild Ale",
+      "location": "São Paulo - SP",
+      "abv": 8.3,
+      "ibu_scale": 1,
+      "prices": {
+        "half_pint": 15,
+        "pint": 24,
+        "liter": 51
+      }
+    },
+    {
+      "tap": "06",
+      "image": "/images/beers/malibu.jpeg",
+      "beer": "Malibu",
+      "brewery": "Trilha",
+      "style": "West Coast IPA",
+      "location": "São Paulo - SP",
+      "abv": 6.7,
+      "ibu_scale": 3,
+      "prices": {
+        "half_pint": 21,
+        "pint": 35,
+        "liter": 74
+      }
+    },
+    {
+      "tap": "07",
+      "image": "/images/beers/sourcaba.jpeg",
+      "beer": "Sourcaba",
+      "brewery": "Synergy",
+      "style": "Berliner Weisse",
+      "location": "Sorocaba - SP",
+      "abv": 4.5,
+      "ibu_scale": 1,
+      "prices": {
+        "half_pint": 15,
+        "pint": 24,
+        "liter": 51
+      }
+    },
+    {
+      "tap": "00",
+      "image": "/images/beers/lote_preopen.png",
+      "beer": "Pre-Open",
+      "brewery": "Lote",
+      "style": "Session IPA",
+      "location": "São Paulo - SP",
+      "abv": 5,
+      "ibu_scale": 3,
+      "prices": {
+        "half_pint": 12,
+        "pint": 20,
+        "liter": 41
+      }
+    },
+    {
+      "tap": "09",
+      "image": "/images/beers/camale_shock.jpeg",
+      "beer": "Shock IPA",
+      "brewery": "Camale",
+      "style": "American IPA",
+      "location": "São Paulo - SP",
+      "abv": 6.5,
+      "ibu_scale": 3,
+      "prices": {
+        "half_pint": 18,
+        "pint": 30,
+        "liter": 63
+      }
+    },
+    {
+      "tap": "10",
+      "image": "/images/beers/godbless.jpeg",
+      "beer": "God Bless the family",
+      "brewery": "Mafiosa",
+      "style": "Milk Stout",
+      "location": "Valinhos - SP",
+      "abv": 6.7,
+      "ibu_scale": 2,
+      "prices": {
+        "half_pint": 17,
+        "pint": 28,
+        "liter": 59
+      }
+    },
+    {
+      "tap": "11",
+      "image": "/images/beers/wayne_invocacao.jpg",
+      "beer": "Invocação",
+      "brewery": "Wayne 190",
+      "style": "Double IPA",
+      "location": "São Paulo - SP",
+      "abv": 8.4,
+      "ibu_scale": 3,
+      "prices": {
+        "half_pint": 16,
+        "pint": 27,
+        "liter": 55
+      }
+    },
+    {
+      "tap": "12",
+      "image": "/images/beers/evermaine.jpeg",
+      "beer": "evermaine",
+      "brewery": "everbrew",
+      "style": "New England IPA",
+      "location": "Santos - PR",
+      "abv": 7.4,
+      "ibu_scale": 3,
+      "prices": {
+        "half_pint": 22,
+        "pint": 35,
+        "liter": 75
+      }
+    },
+    {
+      "tap": "13",
+      "image": "/images/beers/brugsezotblond.jpeg",
+      "beer": "Blond",
+      "brewery": "Brugse Zot",
+      "style": "Belgian Blond",
+      "location": "Bélgica",
+      "abv": 6.0,
+      "ibu_scale": 1,
+      "prices": {
+        "half_pint": 21,
+        "pint": 34,
+        "liter": 71
+      }
+    },
+    {
+      "tap": "14",
+      "image": "/images/beers/noi_bianca.jpeg",
+      "beer": "Bianca",
+      "brewery": "Noi",
+      "style": "Weiss",
+      "location": "Rio de Janeiro - RJ",
+      "abv": 4.9,
+      "ibu_scale": 1,
+      "prices": {
+        "half_pint": 13,
+        "pint": 22,
+        "liter": 44
+      }
+    },
+    {
+      "tap": "15",
+      "image": "/images/beers/black.jpeg",
+      "beer": "Black Chocolate",
+      "brewery": "Brooklyn",
+      "style": "Russian Imperial Stout",
+      "location": "Nova York",
+      "abv": 10,
+      "ibu_scale": 3,
+      "prices": {
+        "half_pint": 21,
+        "pint": 29,
+        "liter": 62
+      }
+    }
   ]
 }
