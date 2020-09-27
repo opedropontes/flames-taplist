@@ -1,5 +1,7 @@
 // Lê o beers.json
 
+let beer_image_path = "../images/beers/";
+
 async function fetchData() {
   fetch("../beers.json")
     .then((response) => {
@@ -14,7 +16,9 @@ async function fetchData() {
           document.querySelector("#tap" + beer.tap).classList.remove("hide");
           tap.querySelector(".c-tap").innerHTML = beer.tap;
           // Imagem
-          tap.querySelector(".c-img img").setAttribute("src", beer.image);
+          tap
+            .querySelector(".c-img img")
+            .setAttribute("src", beer_image_path + beer.image);
           tap.querySelector(".c-img img").setAttribute("alt", beer.beer);
           // Nome
           tap.querySelector(".beer-name").innerHTML = beer.beer;

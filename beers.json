@@ -2,7 +2,7 @@
   "beers": [
     {
       "tap": "01",
-      "image": "/images/beers/dadiva_premium_lager.jpeg",
+      "image": "dadiva_premium_lager.jpeg",
       "beer": "Premium Lager",
       "brewery": "Dádiva",
       "style": "Lager",
@@ -17,7 +17,7 @@
     },
     {
       "tap": "02",
-      "image": "/images/beers/matsurika.jpeg",
+      "image": "matsurika.jpeg",
       "beer": "Matsurika",
       "brewery": "Japas",
       "style": "Pilsen Com Jasmin",
@@ -32,7 +32,7 @@
     },
     {
       "tap": "03",
-      "image": "/images/beers/eugenia.jpeg",
+      "image": "eugenia.jpeg",
       "beer": "Eugênia",
       "brewery": "Antuérpia",
       "style": "Witbier",
@@ -47,7 +47,7 @@
     },
     {
       "tap": "04",
-      "image": "/images/beers/irish.jpeg",
+      "image": "irish.jpeg",
       "beer": "Irish Red Ale",
       "brewery": "Antuérpia",
       "style": "Irish Red Ale",
@@ -62,7 +62,7 @@
     },
     {
       "tap": "05",
-      "image": "/images/beers/zev_wild_sour.jpeg",
+      "image": "zev_wild_sour.jpeg",
       "beer": "Wild Sour",
       "brewery": "Zev",
       "style": "Wild Ale",
@@ -77,7 +77,7 @@
     },
     {
       "tap": "06",
-      "image": "/images/beers/malibu.jpeg",
+      "image": "malibu.jpeg",
       "beer": "Malibu",
       "brewery": "Trilha",
       "style": "West Coast IPA",
@@ -92,7 +92,7 @@
     },
     {
       "tap": "07",
-      "image": "/images/beers/sourcaba.jpeg",
+      "image": "sourcaba.jpeg",
       "beer": "Sourcaba",
       "brewery": "Synergy",
       "style": "Berliner Weisse",
@@ -106,8 +106,8 @@
       }
     },
     {
-      "tap": "00",
-      "image": "/images/beers/lote_preopen.png",
+      "tap": "08",
+      "image": "lote_preopen.png",
       "beer": "Pre-Open",
       "brewery": "Lote",
       "style": "Session IPA",
@@ -122,7 +122,7 @@
     },
     {
       "tap": "09",
-      "image": "/images/beers/camale_shock.jpeg",
+      "image": "camale_shock.jpeg",
       "beer": "Shock IPA",
       "brewery": "Camale",
       "style": "American IPA",
@@ -137,7 +137,7 @@
     },
     {
       "tap": "10",
-      "image": "/images/beers/godbless.jpeg",
+      "image": "godbless.jpeg",
       "beer": "God Bless the family",
       "brewery": "Mafiosa",
       "style": "Milk Stout",
@@ -152,7 +152,7 @@
     },
     {
       "tap": "11",
-      "image": "/images/beers/wayne_invocacao.jpeg",
+      "image": "wayne_invocacao.jpeg",
       "beer": "Invocação",
       "brewery": "Wayne 190",
       "style": "Double IPA",
@@ -167,7 +167,7 @@
     },
     {
       "tap": "12",
-      "image": "/images/beers/evermaine.jpeg",
+      "image": "evermaine.jpeg",
       "beer": "evermaine",
       "brewery": "everbrew",
       "style": "New England IPA",
@@ -182,7 +182,7 @@
     },
     {
       "tap": "13",
-      "image": "/images/beers/brugsezotblond.jpeg",
+      "image": "brugsezotblond.jpeg",
       "beer": "Blond",
       "brewery": "Brugse Zot",
       "style": "Belgian Blond",
@@ -197,7 +197,7 @@
     },
     {
       "tap": "14",
-      "image": "/images/beers/noi_bianca.jpeg",
+      "image": "noi_bianca.jpeg",
       "beer": "Bianca",
       "brewery": "Noi",
       "style": "Weiss",
@@ -212,7 +212,7 @@
     },
     {
       "tap": "15",
-      "image": "/images/beers/black.jpeg",
+      "image": "black.jpeg",
       "beer": "Black Chocolate",
       "brewery": "Brooklyn",
       "style": "Russian Imperial Stout",
