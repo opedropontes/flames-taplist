@@ -1,7 +1,7 @@
 // Lê o beers.json
 
 async function fetchData() {
-  fetch("/beers.json")
+  fetch("../beers.json")
     .then((response) => {
       return response.json();
     })
